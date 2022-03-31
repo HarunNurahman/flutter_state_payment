@@ -19,7 +19,7 @@ TextStyle subtitleTextStyle = GoogleFonts.poppins(
   fontSize: 16,
 );
 
-TextStyle categoryTextStyle = GoogleFonts.poppins(
+TextStyle planTextStyle = GoogleFonts.poppins(
   color: colorWhite,
   fontWeight: FontWeight.w700,
   fontSize: 16,
